@@ -1,0 +1,11 @@
+.from-group{
+    text-align: center;
+    width: 172px;
+    background-color: aqua;
+    border-radius: 10px;
+
+}
+.from-control:hover{
+    background-color: greenyellow;
+    
+}
